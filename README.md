@@ -1,7 +1,7 @@
 # Data Science and Analytics Portfolio
 
 
-## [Project 1 : Car Price Prediction using Linear Regression : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/notebook.ipynb)
+## [Project 1 : Car Price Prediction using Linear Regression : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 In this notebook we will predict car price and explore the methods we use to interpret and evaluate the results of our linear regression model.The following actions will be done;
 
 - Assess the data.
