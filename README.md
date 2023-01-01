@@ -30,3 +30,11 @@ In this notebook, we will do a comprehensive analysis of the Android app market 
 ## [Project 4 : A Visual History Of Nobel Price Winners : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/A%20visual%20History%20of%20Nobel%20Price%20Winners.ipynb)
 
 Perfom Exploratory Data Analysis and draw insights from the nobel prize winners dataset from the year 1901 to 2016.
+
+## [Project 5 : Analyze International Debt Statistics : Project Overview]()
+
+In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
+
+- What is the total amount of debt that is owed by the countries listed in the dataset?
+- Which country owns the maximum amount of debt and what does that amount look like?
+- What is the average amount of debt owed by countries across different debt indicators?
