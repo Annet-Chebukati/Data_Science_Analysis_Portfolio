@@ -26,3 +26,7 @@ In this notebook we will predict car price and explore the methods we use to int
 ## [Project 3 : Google Play Store Apps and Reviews : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Google%20Play%20Store%20apps%20and%20reviews.ipynb)
 
 In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
+
+## [Project 4 : A Visual History Of Nobel Price Winners : Project Overview]()
+
+Perfom Exploratory Data Analysis and draw insights from the nobel prize winners dataset from the year 1901 to 2016.
