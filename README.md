@@ -29,7 +29,7 @@ In this notebook, we will do a comprehensive analysis of the Android app market 
 
 ## [Project 4 : A Visual History Of Nobel Price Winners : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/A%20visual%20History%20of%20Nobel%20Price%20Winners.ipynb)
 
-Perfom Exploratory Data Analysis and draw insights from the nobel prize winners dataset from the year 1901 to 2016.
+Perform Exploratory Data Analysis and draw insights from the nobel prize winners' dataset from the year 1901 to 2016.
 
 ## [Project 5 : Analyze International Debt Statistics - SQL : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
 
