@@ -13,3 +13,12 @@ In this notebook we will predict car price and explore the methods we use to int
 - Print summary output of the model, select variables that are statistically significant (p-value < 0.05) and retrain the model.
 - Scale our independent variables and fit the model with our standardized data.
 - Evaluate the Linear Regression model.
+
+## [Project 2 : Predicting Credit Card Approval - Classification Model : Project Overview]()
+
+ Build an automatic credit card approval predictor using machine learning techniques
+- First, we will start off by loading and viewing the dataset.
+- We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
+- We will have to preprocess the dataset to ensure the machine learning model we choose can make good predictions.
+- After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
+- Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
