@@ -31,10 +31,14 @@ In this notebook, we will do a comprehensive analysis of the Android app market 
 
 Perfom Exploratory Data Analysis and draw insights from the nobel prize winners dataset from the year 1901 to 2016.
 
-## [Project 5 : Analyze International Debt Statistics : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
+## [Project 5 : Analyze International Debt Statistics - SQL : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
 
 In this notebook, we are going to analyze international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. We are going to find the answers to questions like:
 
 - What is the total amount of debt that is owed by the countries listed in the dataset?
 - Which country owns the maximum amount of debt and what does that amount look like?
 - What is the average amount of debt owed by countries across different debt indicators?
+
+## [Project 6 : Analyze NYC Public School Test Results Score - SQL : Project Overview]()
+
+In this notebook, we will take a look at data on SATs across public schools in New York City.
