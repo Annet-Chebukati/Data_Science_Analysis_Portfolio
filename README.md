@@ -23,6 +23,6 @@ In this notebook we will predict car price and explore the methods we use to int
 - After our data is in good shape, we will do some exploratory data analysis to build our intuitions.
 - Finally, we will build a machine learning model that can predict if an individual's application for a credit card will be accepted.
 
-##[Project 3 : Google Play Store Apps and Reviews : Project Overview]()
+##[Project 3 : Google Play Store Apps and Reviews : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Google%20Play%20Store%20apps%20and%20reviews.ipynb)
 
 In this notebook, we will do a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. We'll look for insights in the data to devise strategies to drive growth and retention.
