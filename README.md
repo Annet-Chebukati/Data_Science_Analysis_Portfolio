@@ -16,7 +16,7 @@ In this notebook we will predict car price and explore the methods we use to int
 
 ## [Project 2 : Predicting Credit Card Approval - Classification Model : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
 
- Build an automatic credit card approval predictor using machine learning techniques
+ Build an automatic credit card approval predictor using machine learning techniques.
 - First, we will start off by loading and viewing the dataset.
 - We will see that the dataset has a mixture of both numerical and non-numerical features, that it contains values from different ranges, plus that it contains a number of missing entries.
 - We will have to preprocess the dataset to ensure the machine learning model we choose can make good predictions.
@@ -42,3 +42,4 @@ In this notebook, we are going to analyze international debt data collected by T
 ## [Project 6 : Analyze NYC Public School Test Results Score - SQL : Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 
 In this notebook, we will take a look at data on SATs across public schools in New York City.
+
