@@ -1,13 +1,19 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+title: <p align="center"> Annet Chebukati </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/annet-chebukati-nasimiyu7/">LinkedIn</a> |
+  <a href="https://github.com/Annet-Chebukati">GitHub</a>
+  </p>
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  <p align="justify">
+  Data Science & AI Professional | Data Analyst | Financial Analyst | Certified FMVA® & BIDA™ | I leverage data to drive business insights, improve financial performance, and enhance predictive models
+  <br><br>
+  I am currently a Data Science Apprentice at Flit Inc.
+  <br><br>
+  </p>
+  
+theme: jekyll-theme-minimal
