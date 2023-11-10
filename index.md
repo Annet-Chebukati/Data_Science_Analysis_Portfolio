@@ -5,6 +5,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 Email: annetnasimiyuchebukati@gmail.com
 LinkedIn: https://www.linkedin.com/in/annet-chebukati-nasimiyu7/
 
+---
 # Projects
 
 ## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
@@ -54,12 +55,14 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 - Insights Extraction: I extracted insights from the dataset, focusing on the distribution of scores across different schools, districts, and over time.
 - Data Visualization: I visualized the data to better understand the patterns and trends observed.
 
+---
 # Core Competencies
 
 - Methodologies: Data Management, Statistics, Data Visualization, Data Presentation and Communication, Machine Learning, Problem-solving, Research, Collaboration, Financial Analysis, Modeling and Valuation, Business Intelligence, Exploratory Data Analysis, Feature Engineering, Deep Learning, Time Series Analysis, Natural Language Processing.
 - Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, TensorFlow, Keras, Seaborn, Plotly, Matplotlib), R, SQL.
 - Tools: Excel, Power BI, Tableau, BigQuery, Google Data Studio, Power Pivot, Power Query, VBA, Macabacus, Azure
 
+---
 # Certificates
 
 - [Certificate of Completion - Bootcamp training in Data Science](https://drive.google.com/file/d/1OpfKnBP4nGYEHx3L1szD-OuL1StPqfq-/view?usp=sharing)
@@ -69,5 +72,5 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 - [Badge of completion for the Open-Access Data Science & Advanced Analytics Virtual Experience Program](https://www.theforage.com/badges/TSaEu86uhPwkwJE44/CMuzezzkFsMHPKMi7/Badge%20of%20completion%20for%20the%20Open-Access%20Data%20Science%20&%20Advanced%20Analytics%20Virtual%20Experience%20Program/Annet)
 - [Data Scientist with Python Statement of Accomplishment by DataCamp](https://drive.google.com/file/d/1TVF4z9S9yPQyB8UaGezXwe4awJTc2iFk/view?usp=sharing)
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+---
+<center>© 2023 Annet Chebukati. Powered by Jekyll and the Minimal Theme.</center>
