@@ -1,11 +1,11 @@
-# Data Science and Analytics Portfolio - Annet Chebuakati
+## Data Science and Analytics Portfolio - Annet Chebuakati
 
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 Email: annetnasimiyuchebukati@gmail.com
 LinkedIn: https://www.linkedin.com/in/annet-chebukati-nasimiyu7/
 
-# Projects
+### Projects
 
 ## [Project 1: Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 
@@ -54,13 +54,13 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 - Insights Extraction: I extracted insights from the dataset, focusing on the distribution of scores across different schools, districts, and over time.
 - Data Visualization: I visualized the data to better understand the patterns and trends observed.
 
-# Core Competencies
+### Core Competencies
 
 - Methodologies: Data Management, Statistics, Data Visualization, Data Presentation and Communication, Machine Learning, Problem-solving, Research, Collaboration, Financial Analysis, Modeling and Valuation, Business Intelligence, Exploratory Data Analysis, Feature Engineering, Deep Learning, Time Series Analysis, Natural Language Processing.
 - Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, TensorFlow, Keras, Seaborn, Plotly, Matplotlib), R, SQL.
 - Tools: Excel, Power BI, Tableau, BigQuery, Google Data Studio, Power Pivot, Power Query, VBA, Macabacus, Azure
 
-# Certificates
+### Certificates
 
 - [Certificate of Completion - Bootcamp training in Data Science](https://drive.google.com/file/d/1OpfKnBP4nGYEHx3L1szD-OuL1StPqfq-/view?usp=sharing)
 - [Financial Modelling and Valuation Analyst](https://credentials.corporatefinanceinstitute.com/36a1a3b3-f9f8-4f17-9a6e-6dbf281c0762)
