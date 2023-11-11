@@ -1,9 +1,7 @@
 # Data Science and Analytics Portfolio
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
-
 ---
-# Projects
+# Class Projects
 
 ## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 
