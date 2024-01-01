@@ -49,19 +49,19 @@ The goal of this project is to work with a hotel reservation dataset that contai
 - GitHub
 
 ### Steps
-**1. Data Import:**
+1. **Data Import:**
 - Import the hotel reservation dataset into your preferred SQL environment.
-**2. Data Exploration:**
+2. **Data Exploration:**
 - Explore the dataset to understand the variables and the relationships between them.
-**3. SQL Analysis:**
+3. **SQL Analysis:**
 - Use SQL for data manipulation and analysis.
-**4. Tableau Visualization:**
+4. **Tableau Visualization:**
 - Create visualizations in Tableau based on my findings from the SQL analysis.
-**5. GitHub Repository:**
+5. **GitHub Repository:**
 - Maintain a GitHub repository with all my scripts, code, and visualizations.
-**6. Tableau Dashboards publishing:**
+6. **Tableau Dashboards publishing:**
 - Publish my Tableau dashboards for easy access and sharing.
-**7. Presentation:**
+7. **Presentation:**
 - Prepare a presentation or report summarizing my findings and recommendations.
 
 ## [Market Basket Analysis for E-commerce](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Market_Basket_Analysis)
@@ -80,26 +80,26 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 - Jupyter NotebookTools
 
 ### Steps
-**1. Data Preparation:**
+1. **Data Preparation:**
 - Load the dataset using pandas.
 - Clean the data by handling missing values and removing duplicates.
 - Preprocess the data if necessary, such as converting data types, encoding categorical variables, etc.
-**2. Exploratory Data Analysis (EDA):**
+2. **Exploratory Data Analysis (EDA):**
 - Analyze the dataset to understand the distribution and relationship of the variables.
 - Use visualization tools like Matplotlib and Seaborn to create plots for better understanding.
-**3. Market Basket Analysis:**
+3. **Market Basket Analysis:**
 - Use the Apriori algorithm or other association rule mining algorithms for market basket analysis.
 - Generate frequent itemsets and strong association rules.
-**4. Visualization:**
+4. **Visualization:**
 - Visualize the results of the market basket analysis.
 - Create plots to show the most frequent itemsets, the items that are most commonly bought together, etc.
-**5. Interpretation and Insights:**
+5. **Interpretation and Insights:**
 - Interpret the results of the market basket analysis.
 - Extract insights about customer purchasing behavior.
-**6. Recommendations:**
+6. **Recommendations:**
 - Based on the insights, make recommendations for business optimization.
 - Suggestions could include changes in product placement, pricing strategies, cross-selling tactics, etc.
-**7. Presentation:**
+7. **Presentation:**
 - Document all my findings, code, and visualizations in a Jupyter Notebook.
 - Prepare a presentation or report for my mentorship group
 
