@@ -1,6 +1,6 @@
 # Data Science and Analytics Portfolio - Annet Chebuakati
 
-This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This [Portfolio](https://annet-chebukati.github.io/Data_Science_Analysis_Portfolio/) is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
 
 Email: annetnasimiyuchebukati@gmail.com
 LinkedIn: https://www.linkedin.com/in/annet-chebukati-nasimiyu7/
