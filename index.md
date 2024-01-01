@@ -172,7 +172,7 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 ## Human Image Animation with Diffusion Models
 
-[**OUTPUT VIDEO**]((https://youtu.be/w8b87GyMjWE) **|** [**MAGICANIMATE NOTEBOOK**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb) **|** [**VIDEO2DENSEPOSE NOTEBOOK**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
+[**OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE) **|** [**MAGICANIMATE NOTEBOOK**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb) **|** [**VIDEO2DENSEPOSE NOTEBOOK**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
 
 ![Human Image Animation](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Human_Image_Animation.png)
 
@@ -202,7 +202,7 @@ This groundbreaking research paper, titled "MagicAnimate: Temporally Consistent 
 
 ## Creating a Deep Fake Video with Refacer
 
-[**DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU) **|** [GOOGLE COLAB](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
+[**DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU) **|** [**GOOGLE COLAB**](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
 
 It's truly amazing to see the transformation! The video link above provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
