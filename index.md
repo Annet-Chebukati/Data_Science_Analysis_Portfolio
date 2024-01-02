@@ -164,8 +164,6 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 [**OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE) [**MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb) [**VIDEO2DENSEPOSE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
 
-![Human Image Animation](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Human_Image_Animation.png)
-
 <center><img src="Images/Human_Image_Animation.png"/></center>
 
 ### Introduction
