@@ -11,8 +11,12 @@
 Streamlit App Screenshot - **P0SITIVE REVIEW**
 ![IMAGE](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Image1.png)
 
+<center><img src="Images/Image1.png"/></center>
+
 Streamlit App Screenshot - **NEGATIVE REVIEW**
 ![IMAGE](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Image4.png)
+
+<center><img src="Images/Image4.png"/></center>
 
 ### Overview
 In this project, I conducted sentiment analysis on a collection of product reviews from an e-commerce platform. Utilizing a combination of text reviews and associated ratings, I developed a model capable of classifying the sentiment of each review as positive, negative, or neutral. The project leveraged natural language processing techniques and machine learning to analyze and categorize sentiments, providing valuable insights into customer feedback.
@@ -39,6 +43,8 @@ In this project, I conducted sentiment analysis on a collection of product revie
 [**TABLEAU DASHBOARD**](https://public.tableau.com/views/Hotel_Reservation_Analysis/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/Hotel_Reservation_Analysis_Presentation.pdf) [**SQL SCRIPT**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/SQL/SQLcode.sql)
 
 ![Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Dashboard.png)
+
+<center><img src="Images/Dashboard.png"/></center>
 
 ### Objective
 The goal of this project is to work with a hotel reservation dataset that contains information about reservations at two types of hotels: Resort Hotels (H1) and City Hotels (H2). I used SQL for data manipulation and Tableau for visualization to gain insights and create impactful visualizations.
@@ -69,6 +75,8 @@ The goal of this project is to work with a hotel reservation dataset that contai
 [**JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market%20Basket%20Analysis%20in%20Python.ipynb) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market_Basket_Analysis_Presentation.pdf)
 
 ![Heatmap](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/HeatMap.png)
+
+<center><img src="Images/HeatMap.png"/></center>
 
 ### Objective
 In this project, I conducted a market basket analysis, for retail and e-commerce. I extracted valuable insights from transaction data, to understand customer purchasing behavior, and use this knowledge for business optimization.
@@ -164,6 +172,8 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 ![Human Image Animation](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Human_Image_Animation.png)
 
+<center><img src="Images/Human_Image_Animation.png"/></center>
+
 ### Introduction
 Welcome to my journey of bringing imagination to life with human image animation. This cutting-edge technology allows us to create realistic and expressive characters in motion, transforming the realm of traditional animation studios. Now, anyone with a creative spark can tell their stories and share their vision with the world, regardless of technical expertise.
 
@@ -189,6 +199,8 @@ Human image animation encompasses various techniques to create the illusion of m
 It's truly amazing to see the transformation! The video link above provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
 ![Deepfake_Screenshot](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Deepfake.png)
+
+<center><img src="Images/Deepfake.png"/></center>
 
 ### Introduction
 Welcome to the fascinating world of deepfake technology, powered by advancements in AI. While creating unique content has become more accessible, it's crucial to use this technology responsibly. This README guides you through the process of creating a deepfake video using free AI tools. I embarked on this adventure with the captivating trailer of the docuseries 'African Queens' from Netflix, which tells the story of the warrior Queen Njinga of Angola. In a twist of digital magic, I replaced Queen Njinga's face with my own!
