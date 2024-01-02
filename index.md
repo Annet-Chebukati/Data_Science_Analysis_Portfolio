@@ -6,7 +6,7 @@
 
 ## [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
 
-[**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf) [**📔 JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
+[**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf)  ||  [**📔 JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
 
 Streamlit App Screenshot - **P0SITIVE REVIEW**
 
@@ -38,7 +38,7 @@ In this project, I conducted sentiment analysis on a collection of product revie
 
 ## [Hotel Reservation Analysis in SQL and Tableau](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Hotel_Reservation_Analysis)
 
-[**TABLEAU DASHBOARD**](https://public.tableau.com/views/Hotel_Reservation_Analysis/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/Hotel_Reservation_Analysis_Presentation.pdf) [**SQL SCRIPT**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/SQL/SQLcode.sql)
+[**📊 TABLEAU DASHBOARD**](https://public.tableau.com/views/Hotel_Reservation_Analysis/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)  ||  [**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/Hotel_Reservation_Analysis_Presentation.pdf)  ||  [**📜 SQL SCRIPT**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/SQL/SQLcode.sql)
 
 <center><img src="Images/Dashboard.png"/></center>
 
@@ -68,7 +68,7 @@ The goal of this project is to work with a hotel reservation dataset that contai
 
 ## [Market Basket Analysis for E-commerce](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Market_Basket_Analysis)
 
-[**JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market%20Basket%20Analysis%20in%20Python.ipynb) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market_Basket_Analysis_Presentation.pdf)
+[**📔 JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market%20Basket%20Analysis%20in%20Python.ipynb)  ||  [**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market_Basket_Analysis_Presentation.pdf)
 
 <center><img src="Images/HeatMap.png"/></center>
 
@@ -162,7 +162,7 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 ## [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
 
-[**OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE) [**MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb) [**VIDEO2DENSEPOSE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
+[**📹 OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE)  ||  [**👨‍💻 MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb)  ||  [**📚 VIDEO2DENSEPOSE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
 
 <center><img src="Images/Human_Image_Animation.png"/></center>
 
@@ -186,7 +186,7 @@ Human image animation encompasses various techniques to create the illusion of m
 
 ## [Creating a Deep Fake Video with Refacer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
 
-[**DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU) [**GOOGLE COLAB**](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
+[**📹 DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU)  ||  [**☁️ GOOGLE COLAB**](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
 
 It's truly amazing to see the transformation! The video link above provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
