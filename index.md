@@ -162,7 +162,7 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 ## [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
 
-[**📹 OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE)  ||  [**👨‍💻 MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb)  ||  [**📚 VIDEO2DENSEPOSE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
+[**📹 OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE)  ||  [**👨‍💻 MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb)  ||  [**📚 VID2DENSEPOS**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
 
 <center><img src="Images/Human_Image_Animation.png"/></center>
 
