@@ -6,7 +6,7 @@
 
 ## [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
 
-[**🎥 Click here for the PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf) [**JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
+[**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf) [**📔 JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
 
 Streamlit App Screenshot - **P0SITIVE REVIEW**
 
