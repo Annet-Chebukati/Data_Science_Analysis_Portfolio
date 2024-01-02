@@ -9,10 +9,10 @@
 [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf) [**JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
 
 Streamlit App Screenshot - **P0SITIVE REVIEW**
-![IMAGE](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Image1.png)
+![IMAGE](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/Image1.png)
 
 Streamlit App Screenshot - **NEGATIVE REVIEW**
-![IMAGE](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Image4.png)
+![IMAGE](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/Image4.png)
 
 ### Overview
 In this project, I conducted sentiment analysis on a collection of product reviews from an e-commerce platform. Utilizing a combination of text reviews and associated ratings, I developed a model capable of classifying the sentiment of each review as positive, negative, or neutral. The project leveraged natural language processing techniques and machine learning to analyze and categorize sentiments, providing valuable insights into customer feedback.
@@ -38,7 +38,7 @@ In this project, I conducted sentiment analysis on a collection of product revie
 
 [**TABLEAU DASHBOARD**](https://public.tableau.com/views/Hotel_Reservation_Analysis/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/Hotel_Reservation_Analysis_Presentation.pdf) [**SQL SCRIPT**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/SQL/SQLcode.sql)
 
-![Dashboard](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Hotel_Reservation_Analysis/Dashboard.png)
+![Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/Dashboard.png)
 
 ### Objective
 The goal of this project is to work with a hotel reservation dataset that contains information about reservations at two types of hotels: Resort Hotels (H1) and City Hotels (H2). I used SQL for data manipulation and Tableau for visualization to gain insights and create impactful visualizations.
@@ -49,32 +49,26 @@ The goal of this project is to work with a hotel reservation dataset that contai
 - GitHub
 
 ### Steps
-**1. Data Import:**
-- Import the hotel reservation dataset into your preferred SQL environment.
-
-**2. Data Exploration:**
-- Explore the dataset to understand the variables and the relationships between them.
-
-**3. SQL Analysis:**
-- Use SQL for data manipulation and analysis.
-
-**4. Tableau Visualization:**
-- Create visualizations in Tableau based on my findings from the SQL analysis.
-
-**5. GitHub Repository:**
-- Maintain a GitHub repository with all my scripts, code, and visualizations.
-
-**6. Tableau Dashboards publishing:**
-- Publish my Tableau dashboards for easy access and sharing.
-
-**7. Presentation:**
-- Prepare a presentation or report summarizing my findings and recommendations.
+1. **Data Import:**
+   - Import the hotel reservation dataset into your preferred SQL environment.
+2. **Data Exploration:**
+   - Explore the dataset to understand the variables and the relationships between them.
+3. **SQL Analysis:**
+   - Use SQL for data manipulation and analysis.
+4. **Tableau Visualization:**
+   - Create visualizations in Tableau based on my findings from the SQL analysis.
+5. **GitHub Repository:**
+   - Maintain a GitHub repository with all my scripts, code, and visualizations.
+6. **Tableau Dashboards publishing:**
+   - Publish my Tableau dashboards for easy access and sharing.
+7. **Presentation:**
+   - Prepare a presentation or report summarizing my findings and recommendations.
 
 ## [Market Basket Analysis for E-commerce](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Market_Basket_Analysis)
 
 [**JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market%20Basket%20Analysis%20in%20Python.ipynb) [**PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/Market_Basket_Analysis_Presentation.pdf)
 
-![Heatmap](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Market_Basket_Analysis/HeatMap.png)
+![Heatmap](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/HeatMap.png)
 
 ### Objective
 In this project, I conducted a market basket analysis, for retail and e-commerce. I extracted valuable insights from transaction data, to understand customer purchasing behavior, and use this knowledge for business optimization.
@@ -86,34 +80,28 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 - Jupyter NotebookTools
 
 ### Steps
-**1. Data Preparation:**
-- Load the dataset using pandas.
-- Clean the data by handling missing values and removing duplicates.
+1. **Data Preparation:**
+   - Load the dataset using pandas.
+   - Clean the data by handling missing values and removing duplicates.
 - Preprocess the data if necessary, such as converting data types, encoding categorical variables, etc.
-
-**2. Exploratory Data Analysis (EDA):**
-- Analyze the dataset to understand the distribution and relationship of the variables.
-- Use visualization tools like Matplotlib and Seaborn to create plots for better understanding.
-
-**3. Market Basket Analysis:**
-- Use the Apriori algorithm or other association rule mining algorithms for market basket analysis.
-- Generate frequent itemsets and strong association rules.
-
-**4. Visualization:**
-- Visualize the results of the market basket analysis.
-- Create plots to show the most frequent itemsets, the items that are most commonly bought together, etc.
-
-**5. Interpretation and Insights:**
-- Interpret the results of the market basket analysis.
-- Extract insights about customer purchasing behavior.
-
-**6. Recommendations:**
-- Based on the insights, make recommendations for business optimization.
-- Suggestions could include changes in product placement, pricing strategies, cross-selling tactics, etc.
-
-**7. Presentation:**
-- Document all my findings, code, and visualizations in a Jupyter Notebook.
-- Prepare a presentation or report for my mentorship group
+2. **Exploratory Data Analysis (EDA):**
+  - Analyze the dataset to understand the distribution and relationship of the variables.
+  - Use visualization tools like Matplotlib and Seaborn to create plots for better understanding.
+3. **Market Basket Analysis:**
+    - Use the Apriori algorithm or other association rule mining algorithms for market basket analysis.
+    - Generate frequent itemsets and strong association rules.
+4. **Visualization:**
+    - Visualize the results of the market basket analysis.
+    - Create plots to show the most frequent itemsets, the items that are most commonly bought together, etc.
+5. **Interpretation and Insights:**
+    - Interpret the results of the market basket analysis.
+    - Extract insights about customer purchasing behavior.
+6. **Recommendations:**
+    - Based on the insights, make recommendations for business optimization.
+    - Suggestions could include changes in product placement, pricing strategies, cross-selling tactics, etc.
+7. **Presentation:**
+    - Document all my findings, code, and visualizations in a Jupyter Notebook.
+    - Prepare a presentation or report for my mentorship group
 
 ---
 
@@ -122,59 +110,59 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 ## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 
 In this project, I utilized a linear regression model to predict car prices and further explored the methods used to interpret and evaluate the results of our model. The project involved the following steps:
-- Data Assessment: The initial step involved a thorough assessment of the data to understand its structure and content.
-- Building Models: I built a basic linear regression model using selected features and ran the model summary. I also constructed a full linear regression model using a comprehensive range of features available.
-- Feature Engineering: I plotted a correlation matrix and reduced the number of independent variables through feature engineering. I also performed one-hot encoding on categorical variables.
-- Model Training and Prediction: I split the data into train and test sets, fitted the model to the training data, and performed predictions on the test set.
-- Model Refinement: I printed the summary output of the model, selected variables that were statistically significant (p-value < 0.05), and retrained the model.
-- Scaling Variables: I scaled the independent variables and fitted the model with the standardized data.
-- Model Evaluation: Finally, I evaluated the performance of the Linear Regression model.
+- **Data Assessment**: The initial step involved a thorough assessment of the data to understand its structure and content.
+- **Building Models**: I built a basic linear regression model using selected features and ran the model summary. I also constructed a full linear regression model using a comprehensive range of features available.
+- **Feature Engineering**: I plotted a correlation matrix and reduced the number of independent variables through feature engineering. I also performed one-hot encoding on categorical variables.
+- **Model Training and Prediction**: I split the data into train and test sets, fitted the model to the training data, and performed predictions on the test set.
+- **Model Refinement**: I printed the summary output of the model, selected variables that were statistically significant (p-value < 0.05), and retrained the model.
+- **Scaling Variables**: I scaled the independent variables and fitted the model with the standardized data.
+- **Model Evaluation**: Finally, I evaluated the performance of the Linear Regression model.
 
 ## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
 
 In this project, I developed an automatic credit card approval predictor using machine learning classification techniques. The project involved the following steps:
-- Data Loading: The initial step involved loading and viewing the dataset.
-- Data Preprocessing: The dataset contained a mixture of numerical and non-numerical features, values from different ranges, and several missing entries. I preprocessed the dataset to ensure the machine learning model could make good predictions.
-- Exploratory Data Analysis: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
-- Model Building: Finally, I built a machine learning classification model that predicts if an individual's application for a credit card will be accepted.
+- **Data Loading**: The initial step involved loading and viewing the dataset.
+- **Data Preprocessing**: The dataset contained a mixture of numerical and non-numerical features, values from different ranges, and several missing entries. I preprocessed the dataset to ensure the machine learning model could make good predictions.
+- **Exploratory Data Analysis**: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
+- **Model Building**: Finally, I built a machine learning classification model that predicts if an individual's application for a credit card will be accepted.
 
 ## [Google Play Store Apps and Reviews: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Google%20Play%20Store%20apps%20and%20reviews.ipynb)
 
 In this project, I conducted a comprehensive analysis of the Android app market by comparing over ten thousand apps in Google Play across different categories. The project involved the following steps:
-- Data Analysis: I analyzed the Android app market, looking for insights into the data to devise strategies to drive growth and retention.
-- Comparison: I compared over ten thousand apps in Google Play across different categories to understand the market dynamics.
-- Insights: I looked for insights into the data to devise strategies to drive growth and retention.
+- **Data Analysis**: I analyzed the Android app market, looking for insights into the data to devise strategies to drive growth and retention.
+- **Comparison**: I compared over ten thousand apps in Google Play across different categories to understand the market dynamics.
+- **Insights**: I looked for insights into the data to devise strategies to drive growth and retention.
 
 ## [A Visual History Of Nobel Price Winners: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/A%20visual%20History%20of%20Nobel%20Price%20Winners.ipynb)
 
 In this project, I conducted an exploratory data analysis on the Nobel prize winners' dataset spanning from 1901 to 2016. The project involved the following steps:
-- Data Analysis: I performed an exploratory data analysis on the Nobel prize winners' dataset, looking for patterns, trends, and insights.
-- Insights Extraction: I extracted insights from the dataset, focusing on the distribution of prizes across different categories, countries, and over time.
-- Data Visualization: I visualized the data to better understand the patterns and trends observed.
+- **Data Analysis**: I performed an exploratory data analysis on the Nobel prize winners' dataset, looking for patterns, trends, and insights.
+- **Insights Extraction**: I extracted insights from the dataset, focusing on the distribution of prizes across different categories, countries, and over time.
+- **Data Visualization**: I visualized the data to better understand the patterns and trends observed.
 
 ## [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
 
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. The project aimed to answer the following questions:
-- Total Debt: What is the total debt owed by the countries listed in the dataset?
-- Maximum Debt: Which country owns the maximum amount of debt and what is that amount?
-- Average Debt: What is the average amount of debt owed by countries across different debt indicators?
+- **Total Debt**: What is the total debt owed by the countries listed in the dataset?
+- **Maximum Debt**: Which country owns the maximum amount of debt and what is that amount?
+- **Average Debt**: What is the average amount of debt owed by countries across different debt indicators?
 
 ## [Analyze NYC Public School Test Results Score - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 
 In this project, I conducted a comprehensive analysis of data on SATs across public schools in New York City. The project involved the following steps:
-- Data Analysis: I performed an exploratory data analysis on the SATs dataset, looking for patterns, trends, and insights.
-- Insights Extraction: I extracted insights from the dataset, focusing on the distribution of scores across different schools, districts, and over time.
-- Data Visualization: I visualized the data to better understand the patterns and trends observed.
+- **Data Analysis**: I performed an exploratory data analysis on the SATs dataset, looking for patterns, trends, and insights.
+- **Insights Extraction**: I extracted insights from the dataset, focusing on the distribution of scores across different schools, districts, and over time.
+- **Data Visualization**: I visualized the data to better understand the patterns and trends observed.
 
 ---
 
 # **PASSION PROJECTS - APPLIED AI**
 
-## Human Image Animation with Diffusion Models
+## [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
 
 [**OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE) [**MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb) [**VIDEO2DENSEPOSE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
 
-![Human Image Animation](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Human_Image_Animation.png)
+![Human Image Animation](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/Human_Image_Animation.png)
 
 ### Introduction
 Welcome to my journey of bringing imagination to life with human image animation. This cutting-edge technology allows us to create realistic and expressive characters in motion, transforming the realm of traditional animation studios. Now, anyone with a creative spark can tell their stories and share their vision with the world, regardless of technical expertise.
@@ -200,13 +188,13 @@ This groundbreaking research paper, titled "MagicAnimate: Temporally Consistent 
     - **Motion Sequence**: Here, you can go ahead and upload your previously generated motion sequence file or you can choose from the already provided example motion sequence files in the web app. If you are using your motion sequence file, I recommend making it with a square aspect ratio. You can use free tools to crop it before or after processing.
     Once you have uploaded the two files, click on "Animate" and wait for the magic to happen!
 
-## Creating a Deep Fake Video with Refacer
+## [Creating a Deep Fake Video with Refacer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
 
 [**DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU) [**GOOGLE COLAB**](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
 
 It's truly amazing to see the transformation! The video link above provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
 
-![Deepfake_Screenshot](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Creating_DeepFake-Video/Deepfake.png)
+![Deepfake_Screenshot](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/assets/img/Deepfake.png)
 
 ### Introduction
 Welcome to the fascinating world of deepfake technology, powered by advancements in AI. While creating unique content has become more accessible, it's crucial to use this technology responsibly. This README guides you through the process of creating a deepfake video using free AI tools. I embarked on this adventure with the captivating trailer of the docuseries 'African Queens' from Netflix, which tells the story of the warrior Queen Njinga of Angola. In a twist of digital magic, I replaced Queen Njinga's face with my own!
@@ -237,9 +225,9 @@ The output file is accessible on the Refacer web app. However, if the video does
 
 # **CORE COMPETENCIES**
 
-- Methodologies: Data Management, Statistics, Data Visualization, Data Presentation and Communication, Machine Learning, Problem-solving, Research, Collaboration, Financial Analysis, Modeling and Valuation, Business Intelligence, Exploratory Data Analysis, Feature Engineering, Deep Learning, Time Series Analysis, Natural Language Processing.
-- Languages: Python (Pandas, Numpy, Scikit-Learn, Scipy, TensorFlow, Keras, Seaborn, Plotly, Matplotlib), R, SQL.
-- Tools: Excel, Power BI, Tableau, BigQuery, Google Data Studio, Power Pivot, Power Query, VBA, Macabacus, Azure
+- **Methodologies**: Data Management, Statistics, Data Visualization, Data Presentation and Communication, Machine Learning, Problem-solving, Research, Collaboration, Financial Analysis, Modeling and Valuation, Business Intelligence, Exploratory Data Analysis, Feature Engineering, Deep Learning, Time Series Analysis, Natural Language Processing.
+- **Languages**: Python (Pandas, Numpy, Scikit-Learn, Scipy, TensorFlow, Keras, Seaborn, Plotly, Matplotlib), R, SQL.
+- **Tools**: Excel, Power BI, Tableau, BigQuery, Google Data Studio, Power Pivot, Power Query, VBA, Macabacus, Azure
 
 ---
 
