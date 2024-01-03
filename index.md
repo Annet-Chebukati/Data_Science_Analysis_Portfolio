@@ -4,6 +4,35 @@
 
 # **APPRENTICESHIP PROJECTS**
 
+## [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
+
+**Upper Management**
+
+[**📊 TABLEAU DASHBOARD**](https://public.tableau.com/views/CarInsuranceAnalysis_17042135260620/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link)  ||  [**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Car_Insurance_Analysis/Upper%20Management%20Dashboard%20Presentation.pdf)
+
+<center><img src="Images/UM Dashboard.png"/></center>
+
+**Operational Teams**
+
+[**📊 GOOGLE DATA STUDIO DASHBOARD**](https://lookerstudio.google.com/reporting/14ab11f1-8f88-4602-8319-66aff18c737b)  ||  [**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Car_Insurance_Analysis/Operational%20Dashboard%20Presentation.pdf)
+
+<center><img src="Images/Operational DB.png"/></center>
+
+### Overview
+In this project, I will analyze a dataset from a Car Insurance company. Utilizing a combination of data analysis and visualization tools, I will develop insightful dashboards designed for insurance analysis. The project caters to two distinct audiences: upper management, who will use Tableau, and operational teams, who will rely on Google Data Studio.
+
+### Tools and Technologies
+- Google BigQuery: Used for data storage and querying.
+- Tableau: Employed for creating dashboards for upper management.
+- Google Data Studio: Utilized for crafting operational dashboards.
+- GitHub: The primary platform for version control and sharing the project's codebase.
+
+### Process and Methodology
+1. **Data Preparation**: Begin by importing the car insurance dataset into Google BigQuery, ensuring the data is clean and structured for analysis.
+2. **Data Analysis**: Conduct an initial exploration to understand the data's characteristics and identify any patterns.
+3. **Dashboard Creation**: Create dashboards in Tableau for upper management and another operational dashboard in Google Data Studio.
+4. **Presentation**: The findings will be presented to the relevant stakeholders.
+
 ## [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
 
 [**🎥 PRESENTATION**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis%20Presentation.pdf)  ||  [**📔 JUPYTER NOTEBOOK**](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/blob/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews/Sentiment%20Analysis.ipynb)
