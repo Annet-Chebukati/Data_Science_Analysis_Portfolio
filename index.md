@@ -138,9 +138,9 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 
 # **CLASS PROJECTS**
 
-## **MICROSOFT EXCEL**
+### **MICROSOFT EXCEL**
 
-### [Excel - 3 Statement Financial Model](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/3%20Statement%20Model.pdf)
+## [Excel - 3 Statement Financial Model](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/3%20Statement%20Model.pdf)
 
 <center><img src="Images/3StatementModel.png"/></center>
 
@@ -158,7 +158,7 @@ The 3-statement financial model is a type of financial model that uses three fin
 - **Financing (Yellow Bars):** It fluctuates over the years, representing changes in debt, equity, or dividend payments.
 - **Change in Cash (Line Graph):** The line graph indicates variations in the company’s cash position over time.
 
-### [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/FinancialOverview.png)
+## [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/FinancialOverview.png)
 
 <center><img src="Images/FinancialOverview.png"/></center>
 
@@ -178,7 +178,7 @@ The 3-statement financial model is a type of financial model that uses three fin
 7. **P&L Summary 2018:** The table provides detailed information on revenues, COGS (Cost Of Goods Sold), expenses broken down into salaries & benefits; rent and overhead; depreciation & amortization; interest; total expenses; net operating profit for the year 2018. It provides a detailed view of the company's profit and loss statement for the year 2018.
 8. **Balance Sheet Summary 2018:** This table outlines assets including current assets/non-current assets/total assets/liabilities including current liabilities/long-term liabilities/shareholders' equity/total liabilities & shareholders' equity. It provides a snapshot of the company's financial position at the end of the year 2018.
 
-### [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Website.png)
+## [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Website.png)
 
 <center><img src="Images/Website.png"/></center>
 
@@ -199,7 +199,7 @@ The 3-statement financial model is a type of financial model that uses three fin
 7. **EBITDA Margin:** EBITDA (Earnings Before Interest, Taxes, Depreciation, and Amortization) Margin is a measure of a company’s operating profitability as a percentage of its total revenue. The graph shows the actual EBITDA margin (solid line) and the target EBITDA margin (dotted line). If the solid line is above the dotted line, it means the company’s actual EBITDA margin is higher than its target, indicating better-than-expected profitability. If the solid line is below the dotted line, it means the company’s profitability is lower than its target.
 This dashboard serves as a powerful tool for decision-making, helping to identify trends, monitor performance, and guide strategic planning for the website. 
 
-### [Excel Power Pivot- Head Rest Bed Company Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Excel%20Power%20Pivot-%20Head%20Rest%20Bed%20Company%20Dashboard.xlsx)
+## [Excel Power Pivot- Head Rest Bed Company Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Excel%20Power%20Pivot-%20Head%20Rest%20Bed%20Company%20Dashboard.xlsx)
 
 **Building the Dashboards:**
 1. **Data Collection & Preparation:** Used raw data from the company’s internal database. The data was cleaned, transformed, and organized to ensure accuracy and consistency.
@@ -235,9 +235,9 @@ This dashboard serves as a powerful tool for decision-making, helping to identif
 3. **Employee Performance:** Letisha from Detroit has the highest sales share among employees at 20.7% with a sales per day figure of $23,857.
 This dashboard serves as a powerful tool for decision-making, helping to identify trends, monitor performance, and guide strategic planning for the Head Rest Bed Company
 
-## **PYTHON**
+### **PYTHON**
 
-### [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
+## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 
 In this project, I utilized a linear regression model to predict car prices and further explored the methods used to interpret and evaluate the results of our model. The project involved the following steps:
 - **Data Assessment**: The initial step involved a thorough assessment of the data to understand its structure and content.
@@ -248,7 +248,7 @@ In this project, I utilized a linear regression model to predict car prices and 
 - **Scaling Variables**: I scaled the independent variables and fitted the model with the standardized data.
 - **Model Evaluation**: Finally, I evaluated the performance of the Linear Regression model.
 
-### [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
+## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
 
 I developed an automatic credit card approval predictor using machine learning classification techniques in this project. The project involved the following steps:
 - **Data Loading**: The initial step involved loading and viewing the dataset.
@@ -256,16 +256,16 @@ I developed an automatic credit card approval predictor using machine learning c
 - **Exploratory Data Analysis**: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
 - **Model Building**: Finally, I built a machine learning classification model that predicts if an individual's application for a credit card will be accepted.
 
-## **SQL**
+### **SQL**
 
-### [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
+## [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
 
 In this project, I analyzed international debt data collected by The World Bank. The dataset contains information about the amount of debt (in USD) owed by developing countries across several categories. The project aimed to answer the following questions:
 - **Total Debt**: What is the total debt owed by the countries listed in the dataset?
 - **Maximum Debt**: Which country owns the maximum amount of debt and what is that amount?
 - **Average Debt**: What is the average amount of debt owed by countries across different debt indicators?
 
-### [Analyze NYC Public School Test Results Score - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+## [Analyze NYC Public School Test Results Score - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
 
 In this project, I conducted a comprehensive analysis of data on SATs across public schools in New York City. The project involved the following steps:
 - **Data Analysis**: I performed an exploratory data analysis on the SATs dataset, looking for patterns, trends, and insights.
