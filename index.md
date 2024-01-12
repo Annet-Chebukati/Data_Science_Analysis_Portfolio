@@ -138,6 +138,46 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 
 # **CLASS PROJECTS**
 
+## **MICROSOFT EXCEL**
+
+## [Excel Power Pivot- Head Rest Bed Company Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Excel%20Power%20Pivot-%20Head%20Rest%20Bed%20Company%20Dashboard.xlsx)
+
+**Building the Dashboards:**
+1. **Data Collection & Preparation:** Used raw data from the company’s internal database. The data was cleaned, transformed, and organized to ensure accuracy and consistency.
+2. **Visualization Tools:** Utilized Excel(Power Pivot) to create visual representations displaying key metrics.
+
+### [**📊 Business Overview Dashboard**](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/HeadRestBO.png)
+
+<center><img src="Images/HeadRestBO.png"/></center>
+
+**Dashboard Elements:**
+   - **Top Section:** Provides store size, category, brand, and year filters.
+   - **Middle Section:** Displays detailed tables of sales metrics by city on the left side and by category & brand on the right side.
+   - **Bottom Section:** Presents a bar graph showing monthly sales trends for 2018 & 2019.
+
+**Interpretation of Findings:**
+1. **Austin:** Showed an impressive 8.7% YoY growth in sales with a 30% margin, indicating strong market penetration.
+2. **Lux Bed:** Holds the highest share at 30.9% and has seen a YoY Margin of 1.4%, suggesting a need for strategies to improve profitability.
+3. **Monthly Sales:** Peaked from October to December and dropped from May to September, indicating seasonality trends that can be leveraged for future marketing campaigns.
+This dashboard serves as a powerful tool for decision-making, helping to identify trends, monitor performance, and guide strategic planning for the Head Rest Bed Company. 
+
+### [**📊 Store Performance Dashboard**](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/HeadRestSP.png)
+
+<center><img src="Images/HeadRestSP.png"/></center>
+
+**Dashboard Elements:**
+   - **Top Section:** Provides filters for date and location.
+   - **Middle Section:** Displays detailed tables of sales metrics by day of the week and by product type.
+   - **Right Section:** Presents a table showing individual employee performance metrics.
+
+**Interpretation of Findings:**
+1. **Sales Share:** Sunday has the highest sales share at 30%, indicating that it's the busiest day of the week for the company.
+2. **Product Type:** The Mattress category has the highest sales at $17,882,010 with a YoY sales increase of 6.7%.
+3. **Employee Performance:** Letisha from Detroit has the highest sales share among employees at 20.7% with a sales per day figure of $23,857.
+This dashboard serves as a powerful tool for decision-making, helping to identify trends, monitor performance, and guide strategic planning for the Head Rest Bed Company
+
+## **PYTHON**
+
 ## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
 
 In this project, I utilized a linear regression model to predict car prices and further explored the methods used to interpret and evaluate the results of our model. The project involved the following steps:
@@ -151,7 +191,7 @@ In this project, I utilized a linear regression model to predict car prices and 
 
 ## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
 
-In this project, I developed an automatic credit card approval predictor using machine learning classification techniques. The project involved the following steps:
+I developed an automatic credit card approval predictor using machine learning classification techniques in this project. The project involved the following steps:
 - **Data Loading**: The initial step involved loading and viewing the dataset.
 - **Data Preprocessing**: The dataset contained a mixture of numerical and non-numerical features, values from different ranges, and several missing entries. I preprocessed the dataset to ensure the machine learning model could make good predictions.
 - **Exploratory Data Analysis**: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
