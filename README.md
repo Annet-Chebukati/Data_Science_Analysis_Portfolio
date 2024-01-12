@@ -1,11 +1,11 @@
-# Data Science and Analytics Portfolio - Annet Chebuakati
+# [**Data Science and Analytics Portfolio - Annet Chebukati**](https://annet-chebukati.github.io/Data_Science_Analysis_Portfolio/)
 
-This [Portfolio](https://annet-chebukati.github.io/Data_Science_Analysis_Portfolio/) is a compilation of all the Data Science and Data Analysis projects I have done for academic, self-learning and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated on the regular basis.
+This [Portfolio](https://annet-chebukati.github.io/Data_Science_Analysis_Portfolio/) is a compilation of all the Data Science, Data Analysis, and Artificial Intelligence projects I have done for academic, self-learning, and hobby purposes. This portfolio also contains my Achievements, skills, and certificates. It is updated regularly.
 
 Email: annetnasimiyuchebukati@gmail.com
 LinkedIn: https://www.linkedin.com/in/annet-chebukati-nasimiyu7/
 
-# Projects
+# **PROJECTS**
 - ## [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
 - ## [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
 - ## [Hotel Reservation Analysis in SQL and Tableau](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Hotel_Reservation_Analysis)
