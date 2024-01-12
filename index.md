@@ -1,4 +1,4 @@
-# **DATA SCIENCE/ANALYTICS & AI PORTFOLIO**
+# DATA SCIENCE/ANALYTICS & AI PORTFOLIO
 
 ---
 
@@ -147,7 +147,6 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
 The above charts are derived from an Excel 3-statement financial model. These charts represent the Income Statement and Cash Flow Statement of a company from 2016A to 2023E.
 The 3-statement financial model is a type of financial model that uses three financial statements of a company: the Income Statement, Balance Sheet, and Cash Flow Statement. It is a highly interconnected model where changes in one statement flow through to the others, providing a comprehensive view of a company's financial health. The model helps in financial analysis, decision-making, and valuation of a company.
 
-**Interpretation of findings:**
 **Income Statement Chart:**
 - **Revenue (Blue Bars):** The revenue shows an increasing trend from 2016A to 2023E, indicating the company's business growth.
 - **EBITDA Margin (Orange Line):** The EBITDA margin is relatively stable with slight fluctuations. It represents the company’s operational profitability.
