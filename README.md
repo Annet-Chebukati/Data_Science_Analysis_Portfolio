@@ -6,22 +6,22 @@ Email: annetnasimiyuchebukati@gmail.com
 LinkedIn: https://www.linkedin.com/in/annet-chebukati-nasimiyu7/
 
 # **PROJECTS**
-- ## [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
-- ## [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
-- ## [Hotel Reservation Analysis in SQL and Tableau](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Hotel_Reservation_Analysis)
-- ## [Market Basket Analysis for E-commerce](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Market_Basket_Analysis)
-- ## [Excel - 3 Statement Financial Model](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/3%20Statement%20Model.pdf)
-- ## [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/FinancialOverview.png)
-- ## [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Website.png)
-- ## [Excel Power Pivot- Head Rest Bed Company Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Excel%20Power%20Pivot-%20Head%20Rest%20Bed%20Company%20Dashboard.xlsx)
-- ## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
-- ## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
-- ## [Google Play Store Apps and Reviews: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Google%20Play%20Store%20apps%20and%20reviews.ipynb)
-- ## [A Visual History Of Nobel Price Winners: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/A%20visual%20History%20of%20Nobel%20Price%20Winners.ipynb)
-- ## [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
-- ## [Analyze NYC Public School Test Results Score - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
-- ## [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
-- ## [Creating a Deep Fake Video with Refacer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
+- ### [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
+- ### [Sentiment Analysis for Product Reviews](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Sentiment_Analysis_for_Product_Reviews)
+- ### [Hotel Reservation Analysis in SQL and Tableau](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Hotel_Reservation_Analysis)
+- ### [Market Basket Analysis for E-commerce](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Market_Basket_Analysis)
+- ### [Excel - 3 Statement Financial Model](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/3%20Statement%20Model.pdf)
+- ### [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/FinancialOverview.png)
+- ### [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Website.png)
+- ### [Excel Power Pivot- Head Rest Bed Company Dashboard](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Excel%20Power%20Pivot-%20Head%20Rest%20Bed%20Company%20Dashboard.xlsx)
+- ### [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
+- ### [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
+- ### [Google Play Store Apps and Reviews: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Google%20Play%20Store%20apps%20and%20reviews.ipynb)
+- ### [A Visual History Of Nobel Price Winners: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/A%20visual%20History%20of%20Nobel%20Price%20Winners.ipynb)
+- ### [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
+- ### [Analyze NYC Public School Test Results Score - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores.ipynb)
+- ### [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
+- ### [Creating a Deep Fake Video with Refacer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
 
 # Core Competencies
 
