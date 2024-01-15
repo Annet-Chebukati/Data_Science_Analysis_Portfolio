@@ -158,7 +158,7 @@ The 3-statement financial model is a type of financial model that uses three fin
 - **Financing (Yellow Bars):** It fluctuates over the years, representing changes in debt, equity, or dividend payments.
 - **Change in Cash (Line Graph):** The line graph indicates variations in the company’s cash position over time.
 
-## [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/FinancialOverview.png)
+## [Excel - Comprehensive Financial Overview 2018](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Financial%20Overview.pdf)
 
 <center><img src="Images/FinancialOverview.png"/></center>
 
@@ -179,7 +179,7 @@ The 3-statement financial model is a type of financial model that uses three fin
 7. **P&L Summary 2018:** The table provides detailed information on revenues, COGS (Cost Of Goods Sold), expenses broken down into salaries & benefits; rent and overhead; depreciation & amortization; interest; total expenses; net operating profit for the year 2018. It provides a detailed view of the company's profit and loss statement for the year 2018.
 8. **Balance Sheet Summary 2018:** This table outlines assets including current assets/non-current assets/total assets/liabilities including current liabilities/long-term liabilities/shareholders' equity/total liabilities & shareholders' equity. It provides a snapshot of the company's financial position at the end of the year 2018.
 
-## [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Images/Website.png)
+## [Excel - Annual Website Performance Metrics](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/Website.pdf)
 
 <center><img src="Images/Website.png"/></center>
 
