@@ -282,6 +282,7 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 - [Pixels of Possibility: A look at AI Image Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Image_Generation)
 - [Voices in the Machine - AI Speech Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Speech_Generation)
 - [From Text to Moving Pictures - An Intro to AI Video Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Video_Generation)
+- [Forget Skimming, Ask Away - Chatting with Documents](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Chatting_With_Documents)
 
 ---
 
