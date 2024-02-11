@@ -1,8 +1,8 @@
-# DATA SCIENCE/ANALYTICS & AI PORTFOLIO
+# DATA SCIENCE/ANALYTICS PORTFOLIO
 
 ---
 
-# **APPRENTICESHIP PROJECTS**
+## **PYTHON**
 
 ## [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
 
@@ -134,11 +134,28 @@ In this project, I conducted a market basket analysis, for retail and e-commerce
     - Document all my findings, code, and visualizations in a Jupyter Notebook.
     - Prepare a presentation or report for my mentorship group
 
+## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
+
+In this project, I utilized a linear regression model to predict car prices and further explored the methods used to interpret and evaluate the results of our model. The project involved the following steps:
+- **Data Assessment**: The initial step involved a thorough assessment of the data to understand its structure and content.
+- **Building Models**: I built a basic linear regression model using selected features and ran the model summary. I also constructed a full linear regression model using a comprehensive range of features available.
+- **Feature Engineering**: I plotted a correlation matrix and reduced the number of independent variables through feature engineering. I also performed one-hot encoding on categorical variables.
+- **Model Training and Prediction**: I split the data into train and test sets, fitted the model to the training data, and performed predictions on the test set.
+- **Model Refinement**: I printed the summary output of the model, selected variables that were statistically significant (p-value < 0.05), and retrained the model.
+- **Scaling Variables**: I scaled the independent variables and fitted the model with the standardized data.
+- **Model Evaluation**: Finally, I evaluated the performance of the Linear Regression model.
+
+## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
+
+I developed an automatic credit card approval predictor using machine learning classification techniques in this project. The project involved the following steps:
+- **Data Loading**: The initial step involved loading and viewing the dataset.
+- **Data Preprocessing**: The dataset contained a mixture of numerical and non-numerical features, values from different ranges, and several missing entries. I preprocessed the dataset to ensure the machine learning model could make good predictions.
+- **Exploratory Data Analysis**: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
+- **Model Building**: Finally, I built a machine learning classification model that predicts if an individual's application for a credit card will be accepted.
+
 ---
 
-# **CLASS PROJECTS**
-
-### **MICROSOFT EXCEL**
+## **MICROSOFT EXCEL**
 
 ## [Excel - 3 Statement Financial Model](https://github.com/Annet-Chebukati/Data_Science_Analysis_Portfolio/blob/main/Excel/3%20Statement%20Model.pdf)
 
@@ -236,28 +253,9 @@ This dashboard serves as a powerful tool for decision-making, helping to identif
 3. **Employee Performance:** Letisha from Detroit has the highest sales share among employees at 20.7% with a sales per day figure of $23,857.
 This dashboard serves as a powerful tool for decision-making, helping to identify trends, monitor performance, and guide strategic planning for the Head Rest Bed Company
 
-### **PYTHON**
+---
 
-## [Car Price Prediction using Linear Regression: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/%20Car%20Price%20Prediction%20-%20Linear%20Regression.ipynb)
-
-In this project, I utilized a linear regression model to predict car prices and further explored the methods used to interpret and evaluate the results of our model. The project involved the following steps:
-- **Data Assessment**: The initial step involved a thorough assessment of the data to understand its structure and content.
-- **Building Models**: I built a basic linear regression model using selected features and ran the model summary. I also constructed a full linear regression model using a comprehensive range of features available.
-- **Feature Engineering**: I plotted a correlation matrix and reduced the number of independent variables through feature engineering. I also performed one-hot encoding on categorical variables.
-- **Model Training and Prediction**: I split the data into train and test sets, fitted the model to the training data, and performed predictions on the test set.
-- **Model Refinement**: I printed the summary output of the model, selected variables that were statistically significant (p-value < 0.05), and retrained the model.
-- **Scaling Variables**: I scaled the independent variables and fitted the model with the standardized data.
-- **Model Evaluation**: Finally, I evaluated the performance of the Linear Regression model.
-
-## [Predicting Credit Card Approval - Classification Model: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Predicting%20Credit%20Card%20Approval%20-%20Classification.ipynb)
-
-I developed an automatic credit card approval predictor using machine learning classification techniques in this project. The project involved the following steps:
-- **Data Loading**: The initial step involved loading and viewing the dataset.
-- **Data Preprocessing**: The dataset contained a mixture of numerical and non-numerical features, values from different ranges, and several missing entries. I preprocessed the dataset to ensure the machine learning model could make good predictions.
-- **Exploratory Data Analysis**: After the data was in good shape, I performed some exploratory data analysis to build my intuitions.
-- **Model Building**: Finally, I built a machine learning classification model that predicts if an individual's application for a credit card will be accepted.
-
-### **SQL**
+## **SQL**
 
 ## [Analyze International Debt Statistics - SQL: Project Overview](https://github.com/Annet-Chebukati/Annet_Portfolio/blob/main/Analyze%20International%20Debt%20Statistics.ipynb)
 
@@ -275,64 +273,15 @@ In this project, I conducted a comprehensive analysis of data on SATs across pub
 
 ---
 
-# **PASSION PROJECTS - APPLIED AI**
+# **💡Embracing the Future: My Journey with Applied Artificial Intelligence**
 
-## [Human Image Animation with Diffusion Models](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
+🚀 As we journey through the data universe, let’s take a detour into the captivating world of AI! 🤖 Don’t miss out on these AI projects, each a testament to the power of machine learning. Click away! 👇
 
-[**📹 OUTPUT VIDEO**](https://youtu.be/w8b87GyMjWE)  ||  [**👨‍💻 MAGICANIMATE**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/MagicAnimate_002.ipynb)  ||  [**📚 VID2DENSEPOS**](https://github.com/Annet-Chebukati/ALX_AppliedAI/blob/master/Human_Image_Animation/Vid2Densepose.ipynb)
-
-<center><img src="Images/Human_Image_Animation.png"/></center>
-
-### Introduction
-Welcome to my journey of bringing imagination to life with human image animation. This cutting-edge technology allows us to create realistic and expressive characters in motion, transforming the realm of traditional animation studios. Now, anyone with a creative spark can tell their stories and share their vision with the world, regardless of technical expertise.
-
-### Diffusion Models
-At the heart of this revolution lies a powerful tool called a diffusion model. This sophisticated AI algorithm is like a magic paintbrush, capable of transforming simple noise into stunning visuals. Understanding the flow of information can gradually add details and shapes, ultimately breathing life into still images.
-
-### Human Image Animation
-Human image animation encompasses various techniques to create the illusion of movement in human figures. These techniques range from traditional frame-by-frame animation to more recent advancements like deep learning and artificial intelligence.
-
-### Project Steps
-1. **Setting the Stage**: We need a reference image and a motion sequence. The motion sequence will guide the movement of the character on the reference image when generating the animation.
-2. **Generate Motion Sequence with vid2densepos**: Use [vid2densepos](https://github.com/Flode-Labs/vid2densepose?ref=alxappliedai.com) to generate your motion sequence. You can drag and drop your video into the file explorer of your Colab runtime. You can name your file anything but if it is not "input_video.mp4" make sure to change the INPUT_VIDEO_PATH. Click on the play button to install the required libraries and convert the input file into a Densepose file. This file will appear on the file explorer. Once you have done these steps, you can download your output motion sequence Densepose file. We will use this file later.
-3. **Running the Magic**: MagicAnimate on Google Colab processes your files faster as you will be using your runtime. However, make sure you are using a very short motion sequence Densepose file (around 5 sec maximum). Once finished, you can access the MagicAnimate web app using the link provided.
-4. **Generating the Magic**: Upload the following required files:
-    - **Reference Image**: I'll be using an AI-generated image of a person, but you can use any image of your choice. For better results, please use a square image. You can generate such an image for free using several services such as [Bing Image Creator](https://www.bing.com/images/create?FORM=GDPGLP&ref=alxappliedai.com).
-    - **Motion Sequence**: Here, you can go ahead and upload your previously generated motion sequence file or you can choose from the already provided example motion sequence files in the web app. If you are using your motion sequence file, I recommend making it with a square aspect ratio. You can use free tools to crop it before or after processing.
-    Once you have uploaded the two files, click on "Animate" and wait for the magic to happen!
-
-## [Creating a Deep Fake Video with Refacer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
-
-[**📹 DEEP FAKE VIDEO**](https://youtu.be/0mOdxJeZ0mU)  ||  [**☁️ GOOGLE COLAB**](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com)
-
-It's truly amazing to see the transformation! The video link above provides a side-by-side comparison of the original (on the left) and my deepfake version (on the right).
-
-<center><img src="Images/Deepfake.png"/></center>
-
-### Introduction
-Welcome to the fascinating world of deepfake technology, powered by advancements in AI. While creating unique content has become more accessible, it's crucial to use this technology responsibly. This README guides you through the process of creating a deepfake video using free AI tools. I embarked on this adventure with the captivating trailer of the docuseries 'African Queens' from Netflix, which tells the story of the warrior Queen Njinga of Angola. In a twist of digital magic, I replaced Queen Njinga's face with my own!
-
-### Tool: Refacer
-To facilitate the deepfake creation process, I used a tool called Refacer, which you can check out on [GitHub.](https://github.com/xaviviro/refacer?ref=alxappliedai.com) This tool allows you to create deepfakes with multiple faces with just one click! It's powered by the excellent [Insightface](https://intranet.alxswe.com/rltoken/https://github.com/deepinsight/insightface?ref=alxappliedai.com) and inspired by [Roop](https://github.com/s0md3v/roop?ref=alxappliedai.com).
-
-### Accessing Refacer through Google Colab
-You can access Refacer through Google Colab by following this link: [`refacer_colab.ipynb`](https://colab.research.google.com/drive/1gyhEp2WDvFhPJ5YthN2W0XccU700TSJv?usp=sharing&ref=alxappliedai.com). To initiate the installation and setup process, click the play button on the Refacer Colab notebook.
-
-## Accessing Refacer Webapp
-Upon completion, the program provides a link to access the application used for deep clone creation. This is a temporary link that you can use to access Refacer on the web.
-
-## Using the Refacer Webapp
-The Refacer web application comprises four main sections:
-1. **Original Video Upload**: Here, you upload the source video.
-2. **Target Faces Placement**: In this section, you place the faces in the video that you want to replace. Up to five faces are supported.
-3. **Replacement Faces Placement**: Here, you position the faces that will replace the corresponding faces uploaded in the previous section.
-4. **Output File Display**: The resulting file will be displayed here.
-
-## Creating the Deepfake
-Upload the respective files to their designated sections and click "Reface" (the big orange button at the bottom of the page). This action initiates a process that will "reface" all frames in the video using the provided faces. Please note that this process may take some time.
-
-## Accessing the Output File
-The output file is accessible on the Refacer web app. However, if the video does not appear promptly, check the Colab file for a completion message indicating the location of the refaced video. You can access the file explorer to retrieve the refaced video.
+- [Creating a Deepfake Video - The Trailer](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Creating_DeepFake-Video)
+- [Human Image Animation with Diffusion Models - A Revolution in Motion](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/Human_Image_Animation)
+- [Pixels of Possibility: A look at AI Image Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Image_Generation)
+- [Voices in the Machine - AI Speech Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Speech_Generation)
+- [From Text to Moving Pictures - An Intro to AI Video Generation](https://github.com/Annet-Chebukati/ALX_AppliedAI/tree/master/AI_Video_Generation)
 
 ---
 
