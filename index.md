@@ -4,6 +4,46 @@
 
 ## **PYTHON**
 
+## [DayCare Management System - Object Oriented Programming](https://colab.research.google.com/drive/1K5BOuUSU8liKUz3NFzdzymGgNHf85aLe?usp=sharing)
+
+[**📔 COLAB NOTEBOOK**](https://colab.research.google.com/drive/1K5BOuUSU8liKUz3NFzdzymGgNHf85aLe?usp=sharing)
+
+<center><img src="Images/UM Daycare.jpeg"/></center>
+
+### DayCare Management System
+
+The provided Python code defines a DayCare management system that allows users to interactively manage child profiles for a daycare center. The system is built using ipywidgets for a user-friendly interface within a Jupyter notebook environment.
+
+**Classes and Their Functions**
+- Child
+   Represents a child enrolled in the daycare.
+   Stores details such as name, age, guardian's contact, preferences, likes, dislikes, and special notes.
+   Provides methods to display the child's information and convert the child's data to a dictionary format.
+- DayCare
+   Represents the daycare center.
+   Maintains a list of children enrolled in the daycare.
+   Provides methods to enroll and remove children, retrieve a specific child's details, display all enrolled children, save and load children's data to and from a file, remove duplicate entries, and delete a child's profile.
+- DayCareGUI
+   Provides a graphical user interface for the daycare management system.
+   Allows users to add, display, update, and delete child profiles.
+   Includes interactive widgets such as buttons and text fields for user input and actions.
+
+**User Interface Components** 
+- **Add Child Button:** Opens input fields for adding a new child's profile.
+- **Children List:** Displays a list of enrolled children for selection.
+- **Show Info Button:** Displays the selected child's detailed information.
+- **Update Profile Button:** Opens input fields for updating the selected child's profile.
+- **Delete Child Button:** Deletes the selected child's profile from the system.
+
+**Example Usage**
+The code includes an example usage section that initializes the daycare center, loads existing data, removes duplicates, creates the GUI, and displays it for user interaction.
+
+**File Operations**
+The system can save the current state of enrolled children to a JSON file and load it back, ensuring data persistence across sessions.
+
+**Interactive Features**
+The system is designed to be interactive, with clear outputs and updates reflecting the user's actions in real-time.
+
 ## [Car Insurance Analysis with BigQuery, Tableau, and Google Data Studio](https://github.com/Annet-Chebukati/Flit_inc_Apprenticeship/tree/master/DataScienceandAIprojects/Car_Insurance_Analysis)
 
 **Upper Management**
