@@ -15,15 +15,15 @@
 The provided Python code defines a DayCare management system that allows users to interactively manage child profiles for a daycare center. The system is built using ipywidgets for a user-friendly interface within a Jupyter notebook environment.
 
 **Classes and Their Functions**
-- Child
+- **Child**
    Represents a child enrolled in the daycare.
    Stores details such as name, age, guardian's contact, preferences, likes, dislikes, and special notes.
    Provides methods to display the child's information and convert the child's data to a dictionary format.
-- DayCare
+- **DayCare**
    Represents the daycare center.
    Maintains a list of children enrolled in the daycare.
    Provides methods to enroll and remove children, retrieve a specific child's details, display all enrolled children, save and load children's data to and from a file, remove duplicate entries, and delete a child's profile.
-- DayCareGUI
+- **DayCareGUI**
    Provides a graphical user interface for the daycare management system.
    Allows users to add, display, update, and delete child profiles.
    Includes interactive widgets such as buttons and text fields for user input and actions.
