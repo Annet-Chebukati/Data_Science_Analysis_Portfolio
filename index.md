@@ -8,7 +8,7 @@
 
 [**📔 COLAB NOTEBOOK**](https://colab.research.google.com/drive/1K5BOuUSU8liKUz3NFzdzymGgNHf85aLe?usp=sharing)
 
-<center><img src="Images/UM Daycare.jpeg"/></center>
+<center><img src="Images/Daycare.jpeg"/></center>
 
 ### DayCare Management System
 
